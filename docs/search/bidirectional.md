@@ -1,3 +1,5 @@
+author: AndrewWayne, hsfzLZH1, Xarfa
+
 ### 双向同时搜索
 
 从状态图上起点和终点同时开始进行宽度/深度优先搜索，如果发现相遇了，那么可以认为是获得了可行解。
@@ -26,7 +28,7 @@ while(队列q不为空)
 
 ### 折半搜索
 
-也称 meet in the middle，主要思想是将整个搜索过程分成两半，分别搜索，最后将两半的结果合并。
+也称 meet in the middle，主要思想是将整个搜索过程分成两半，分别搜索，最后将两半的结果合并。由于搜索的复杂度往往是指数级的，而折半搜索可以使指数减半，也就能使复杂度开方。
 
 ???+note "例题 [「USACO09NOV」灯 Lights](https://www.luogu.org/problemnew/show/P2962)"
 

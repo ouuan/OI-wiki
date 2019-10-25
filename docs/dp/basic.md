@@ -1,3 +1,5 @@
+author: Ir1d, tptpp, xhn16729, ChungZH, CBW2007, Xeonacid, ouuan, partychicken, hsfzLZH1, TrisolarisHD, Chrogeek, greyqz, HeRaNO
+
 动态规划应用于子问题重叠的情况：
 
 1.  要去刻画最优解的结构特征；
