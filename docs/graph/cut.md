@@ -1,3 +1,5 @@
+author: Ir1d, sshwy, GavinZhengOI, Planet6174, ouuan, TrisolarisHD, ylxmf2005
+
 相关阅读： [双连通分量](./bcc.md) ，
 
 割点和桥更严谨的定义参见 [图论基础](./basic.md) 。
@@ -114,7 +116,7 @@ low[u] = min(low[u], num[v]);
 
 ## 割边
 
-和割点差不多，还叫做割桥。
+和割点差不多，叫做桥。
 
 > 对于一个无向图，如果删掉一条边后图中的连通分量数增加了，则称这条边为桥或者割边。
 
