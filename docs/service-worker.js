@@ -1,3 +1,3 @@
 this.addEventListener('fetch', function (event) {
-  // occured is a typo
+  // occurred is a typo
 });
